@@ -1,0 +1,12 @@
+Copyright (c) 2025 Anish Boral
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to view and use the Software for personal or commercial purposes, subject to the following conditions:
+
+- The Software must not be modified in any way.
+- Redistribution of the Software in modified form is strictly prohibited.
+- The Software may not be used to create derivative works.
+- Attribution must be provided to the original author in any usage.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+All rights reserved.
