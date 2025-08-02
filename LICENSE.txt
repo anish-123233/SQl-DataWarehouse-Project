@@ -1,12 +1,12 @@
 Copyright (c) 2025 Anish Boral
 
-Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to view and use the Software for personal or commercial purposes, subject to the following conditions:
+Permission is hereby granted to any individual or organization to view and use the SQL scripts and associated documentation in this repository for personal, educational, or internal business purposes, subject to the following conditions:
 
-- The Software must not be modified in any way.
-- Redistribution of the Software in modified form is strictly prohibited.
-- The Software may not be used to create derivative works.
-- Attribution must be provided to the original author in any usage.
+1. The materials may not be modified, adapted, or used to create derivative works.
+2. Redistribution of modified versions is strictly prohibited.
+3. Redistribution of the original, unmodified content is allowed only with proper attribution to the original author.
+4. This license does not grant permission to sublicense or integrate the materials into other public or commercial software products.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE CONTENT.
 
 All rights reserved.
