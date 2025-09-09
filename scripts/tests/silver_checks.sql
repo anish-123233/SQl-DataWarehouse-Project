@@ -97,11 +97,11 @@ WHERE prd_end_dt < prd_start_dt;
 -- Checking 'silver.crm_sales_details'
 -- ====================================================================
 
--- Check for Invalid Dates in Bronze Source
+-- Check for Invalid Dates
 -- Expectation: No Invalid Dates
 SELECT 
     sls_due_dt
-FROM bronze.crm_sales_details
+FROM silver.crm_sales_details
 WHERE sls_due_dt <= 0 
    OR LENGTH(sls_due_dt::TEXT) != 8 
    OR sls_due_dt > 20500101 
